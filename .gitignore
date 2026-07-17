@@ -1,0 +1,16 @@
+# Compiled Java files
+*.class
+
+# VS Code
+.vscode/
+
+# Eclipse files
+.settings/
+.project
+.classpath
+
+# Build folders
+bin/
+out/
+build/
+target/
